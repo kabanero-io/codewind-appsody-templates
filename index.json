@@ -7,10 +7,10 @@
             "giturl": "https://github.com/makandre/nodejs-express-skeleton"
         },
         {
-            "name": "knJavaMicroProfile",
-            "description": "Template for building a MicroProfile / Java EE microcservice",
-            "language": "java",
-            "giturl": "https://github.com/makandre/java-microprofile-skeleton"
+            "name":"nodeExpressTemplate",
+            "description":"Cloud-ready Node.js Express sample application",
+            "language":"nodejs",
+            "giturl":"https://github.com/microclimate-dev2ops/nodeExpressTemplate"
         }
     ]
 }
