@@ -1,0 +1,16 @@
+{
+    "templates": [
+        {
+            "name": "knNodeExpress",
+            "description": "Template for building a Node.js Express microcservice",
+            "language": "nodejs",
+            "giturl": "https://github.com/makandre/nodejs-express-skeleton"
+        },
+        {
+            "name": "knJavaMicroProfile",
+            "description": "Template for building a MicroProfile / Java EE microcservice",
+            "language": "java",
+            "giturl": "https://github.com/makandre/java-microprofile-skeleton"
+        }
+    ]
+}
