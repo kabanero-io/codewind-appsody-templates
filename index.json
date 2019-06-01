@@ -2,7 +2,7 @@
     "templates": [
         {
             "name": "knNodeExpress",
-            "description": "Template for building a Node.js Express microcservice",
+            "description": "Template for building a Node.js Express microservice",
             "language": "nodejs",
             "giturl": "https://github.com/makandre/nodejs-express-skeleton"
         },
