@@ -11,7 +11,7 @@
             "description": "Template for building a MicroProfile / Java EE microservice",
             "language": "java",
             "giturl": "https://github.com/makandre/java-microprofile-skeleton"
-        }
+        },
         {
             "name":"nodeExpressTemplate",
             "description":"Cloud-ready Node.js Express sample application",
