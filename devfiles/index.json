@@ -1,22 +1,32 @@
-{
-    "templates": [
-        {
-            "name": "knNodeExpress",
-            "description": "Template for building a Node.js Express microservice",
-            "language": "nodejs",
-            "giturl": "https://github.com/makandre/nodejs-express-skeleton"
-        },
-        {
-            "name": "knJavaMicroProfile",
-            "description": "Template for building a MicroProfile / Java EE microservice",
-            "language": "java",
-            "giturl": "https://github.com/makandre/java-microprofile-skeleton"
-        },
-        {
-            "name":"nodeExpressTemplate",
-            "description":"Cloud-ready Node.js Express sample application",
-            "language":"nodejs",
-            "giturl":"https://github.com/microclimate-dev2ops/nodeExpressTemplate"
+[
+    {
+        "displayName": "knNodeExpress",
+        "description": "Template for building a Node.js Express microservice",
+        "language": "nodejs",
+        "projectType": "knappExtension",
+        "location": "https://github.com/makandre/nodejs-express-skeleton",
+        "links": {
+            "self": "/devfiles/knNodeExpressTemplate/devfile.yaml"
         }
-    ]
-}
+    },
+    {
+        "displayName": "knJavaMicroProfile",
+        "description": "Template for building a MicroProfile / Java EE microservice",
+        "language": "java",
+        "projectType": "knappExtension",
+        "location": "https://github.com/makandre/java-microprofile-skeleton",
+        "links": {
+            "self": "/devfiles/knJavaMicroProfileTemplate/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Node.js template",
+        "description": "Cloud-ready Node.js Express sample application",
+        "language": "nodejs",
+        "projectType": "nodejs",
+        "location": "https://github.com/microclimate-dev2ops/nodeExpressTemplate",
+        "links": {
+            "self": "/devfiles/nodeExpressTemplate/devfile.yaml"
+        }
+    }
+]
