@@ -10,16 +10,6 @@
         }
     },
     {
-        "displayName": "knJavaMicroProfile",
-        "description": "Template for building a MicroProfile / Java EE microservice",
-        "language": "java",
-        "projectType": "knappExtension",
-        "location": "https://github.com/makandre/java-microprofile-skeleton",
-        "links": {
-            "self": "/devfiles/knJavaMicroProfileTemplate/devfile.yaml"
-        }
-    },
-    {
         "displayName": "Node.js template",
         "description": "Cloud-ready Node.js Express sample application",
         "language": "nodejs",
