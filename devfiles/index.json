@@ -4,7 +4,7 @@
         "description": "Template for building a Node.js Express microservice",
         "language": "nodejs",
         "projectType": "knappExtension",
-        "location": "https://github.com/kylegc/nodejs-express-stack",
+        "location": "https://github.com/makandre/knNodeExpressTemplate",
         "links": {
             "self": "/devfiles/knNodeExpressTemplate/devfile.yaml"
         }
