@@ -1,32 +1,22 @@
 [
     {
-        "displayName": "knNodeExpress",
-        "description": "Cloud-ready Node.js Express sample application",
+        "displayName": "Appsody Node.js Express template",
+        "description": "Sample application using the Appsody Node.js Express stack",
         "language": "nodejs",
         "projectType": "appsodyExtension",
-        "location": "https://github.com/makandre/knNodeExpressTemplate",
+        "location": "https://github.com/makandre/codewind-appsody-nodejs-express",
         "links": {
-            "self": "/devfiles/knNodeExpressTemplate/devfile.yaml"
+            "self": "/devfiles/codewind-appsody-nodejs-express/devfile.yaml"
         }
     },
     {
-        "displayName":"knJavaMicroProfile",
-        "description":"Cloud Microservice Starter for Java - MicroProfile / Java EE",
+        "displayName":"Appsody Java MicroProfile template",
+        "description":"Sample application using the Appsody Java MicroProfile stack",
         "language":"java",
         "projectType":"appsodyExtension",
-        "location":"https://github.com/makandre/knJavaMicroProfileTemplate",
+        "location":"https://github.com/makandre/codewind-appsody-java-microprofile",
         "links": {
-            "self": "/devfiles/knJavaMicroProfileTemplate/devfile.yaml"
-        }
-    },
-    {
-        "displayName": "Node.js template",
-        "description": "Cloud-ready Node.js Express sample application",
-        "language": "nodejs",
-        "projectType": "nodejs",
-        "location": "https://github.com/microclimate-dev2ops/nodeExpressTemplate",
-        "links": {
-            "self": "/devfiles/nodeExpressTemplate/devfile.yaml"
+            "self": "/devfiles/codewind-appsody-java-microprofile/devfile.yaml"
         }
     }
 ]
