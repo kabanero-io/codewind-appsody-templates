@@ -1,1 +1,1 @@
-# codewind-templates
+# codewind-appsody-templates
