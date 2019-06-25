@@ -3,7 +3,7 @@
         "displayName": "knNodeExpress",
         "description": "Cloud-ready Node.js Express sample application",
         "language": "nodejs",
-        "projectType": "knappExtension",
+        "projectType": "appsodyExtension",
         "location": "https://github.com/makandre/knNodeExpressTemplate",
         "links": {
             "self": "/devfiles/knNodeExpressTemplate/devfile.yaml"
@@ -13,7 +13,7 @@
         "displayName":"knJavaMicroProfile",
         "description":"Cloud Microservice Starter for Java - MicroProfile / Java EE",
         "language":"java",
-        "projectType":"knappExtension",
+        "projectType":"appsodyExtension",
         "location":"https://github.com/makandre/knJavaMicroProfileTemplate",
         "links": {
             "self": "/devfiles/knJavaMicroProfileTemplate/devfile.yaml"
