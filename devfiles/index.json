@@ -4,7 +4,7 @@
         "description": "Sample application using the Appsody Node.js Express stack",
         "language": "nodejs",
         "projectType": "appsodyExtension",
-        "location": "https://github.com/makandre/codewind-appsody-nodejs-express",
+        "location": "https://github.com/kabanero-io/codewind-appsody-nodejs-express",
         "links": {
             "self": "/devfiles/codewind-appsody-nodejs-express/devfile.yaml"
         }
@@ -14,7 +14,7 @@
         "description":"Sample application using the Appsody Java MicroProfile stack",
         "language":"java",
         "projectType":"appsodyExtension",
-        "location":"https://github.com/makandre/codewind-appsody-java-microprofile",
+        "location":"https://github.com/kabanero-io/codewind-appsody-java-microprofile",
         "links": {
             "self": "/devfiles/codewind-appsody-java-microprofile/devfile.yaml"
         }
