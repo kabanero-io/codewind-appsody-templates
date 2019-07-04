@@ -1,7 +1,7 @@
 [
     {
         "displayName": "Appsody Node.js Express template",
-        "description": "Sample application using the Appsody Node.js Express stack",
+        "description": "Starter application using the Appsody Node.js Express stack",
         "language": "nodejs",
         "projectType": "appsodyExtension",
         "location": "https://github.com/kabanero-io/codewind-appsody-nodejs-express",
@@ -11,7 +11,7 @@
     },
     {
         "displayName":"Appsody Java MicroProfile template",
-        "description":"Sample application using the Appsody Java MicroProfile stack",
+        "description":"Starter application using the Appsody Java MicroProfile stack",
         "language":"java",
         "projectType":"appsodyExtension",
         "location":"https://github.com/kabanero-io/codewind-appsody-java-microprofile",
