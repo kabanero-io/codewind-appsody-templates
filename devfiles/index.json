@@ -1,5 +1,15 @@
 [
     {
+        "displayName": "Appsody Node.js template",
+        "description": "Starter application using the Appsody Node.js stack",
+        "language": "nodejs",
+        "projectType": "appsodyExtension",
+        "location": "https://github.com/kabanero-io/codewind-appsody-nodejs",
+        "links": {
+            "self": "/devfiles/codewind-appsody-nodejs/devfile.yaml"
+        }
+    },
+    {
         "displayName": "Appsody Node.js Express template",
         "description": "Starter application using the Appsody Node.js Express stack",
         "language": "nodejs",
