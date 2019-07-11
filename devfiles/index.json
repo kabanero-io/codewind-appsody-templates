@@ -20,8 +20,8 @@
         }
     },
     {
-        "displayName":"Appsody Java Spring Boot 2 template",
-        "description":"Starter application using the Appsody Java Spring Boot 2 stack",
+        "displayName":"Appsody Spring Boot 2 template",
+        "description":"Starter application using the Appsody Spring Boot 2 stack",
         "language":"java",
         "projectType":"appsodyExtension",
         "location":"https://github.com/kabanero-io/codewind-appsody-java-spring-boot2",
