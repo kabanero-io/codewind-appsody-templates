@@ -10,16 +10,6 @@
         }
     },
     {
-        "displayName":"Appsody Java MicroProfile template",
-        "description":"Starter application using the Appsody Java MicroProfile stack",
-        "language":"java",
-        "projectType":"appsodyExtension",
-        "location":"https://github.com/kabanero-io/codewind-appsody-java-microprofile",
-        "links": {
-            "self": "/devfiles/codewind-appsody-java-microprofile/devfile.yaml"
-        }
-    },
-    {
         "displayName":"Appsody Spring Boot 2 template",
         "description":"Starter application using the Appsody Spring Boot 2 stack",
         "language":"java",
@@ -27,6 +17,16 @@
         "location":"https://github.com/kabanero-io/codewind-appsody-java-spring-boot2",
         "links": {
             "self": "/devfiles/codewind-appsody-java-spring-boot2/devfile.yaml"
+        }
+    },
+    {
+        "displayName":"Appsody Java MicroProfile template",
+        "description":"Starter application using the Appsody Java MicroProfile stack",
+        "language":"java",
+        "projectType":"appsodyExtension",
+        "location":"https://github.com/kabanero-io/codewind-appsody-java-microprofile",
+        "links": {
+            "self": "/devfiles/codewind-appsody-java-microprofile/devfile.yaml"
         }
     }
 ]
