@@ -28,5 +28,15 @@
         "links": {
             "self": "/devfiles/codewind-appsody-java-spring-boot2/devfile.yaml"
         }
+    },
+    {
+        "displayName":"Appsody Swift template",
+        "description":"Starter application using the Appsody Swift stack",
+        "language":"swift",
+        "projectType":"appsodyExtension",
+        "location":"https://github.com/kabanero-io/codewind-appsody-swift",
+        "links": {
+            "self": "/devfiles/codewind-appsody-swift/devfile.yaml"
+        }
     }
 ]
