@@ -4,7 +4,7 @@
         "description": "Starter application using the Appsody Node.js Express stack",
         "language": "nodejs",
         "projectType": "appsodyExtension",
-        "location": "https://github.com/kabanero-io/codewind-appsody-nodejs-express",
+        "location": "https://github.com/appsody/stacks/releases/download/nodejs-express-v0.2.1/incubator.nodejs-express.templates.simple.tar.gz",
         "links": {
             "self": "/devfiles/codewind-appsody-nodejs-express/devfile.yaml"
         }
@@ -14,7 +14,7 @@
         "description": "Starter application using the Appsody Java MicroProfile stack",
         "language": "java",
         "projectType": "appsodyExtension",
-        "location": "https://github.com/kabanero-io/codewind-appsody-java-microprofile",
+        "location": "https://github.com/appsody/stacks/releases/download/java-microprofile-v0.2.2/incubator.java-microprofile.templates.default.tar.gz",
         "links": {
             "self": "/devfiles/codewind-appsody-java-microprofile/devfile.yaml"
         }
@@ -24,7 +24,7 @@
         "description": "Starter application using the Appsody Spring Boot 2 stack",
         "language": "java",
         "projectType": "appsodyExtension",
-        "location": "https://github.com/kabanero-io/codewind-appsody-java-spring-boot2",
+        "location": "https://github.com/appsody/stacks/releases/download/java-spring-boot2-v0.3.1/incubator.java-spring-boot2.templates.default.tar.gz",
         "links": {
             "self": "/devfiles/codewind-appsody-java-spring-boot2/devfile.yaml"
         }
